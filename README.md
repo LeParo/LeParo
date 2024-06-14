@@ -11,7 +11,7 @@
 - 👋 Hi, I’m @LeParo
 - 👀 I’m interested in enter in college
 - 💞️ I’m looking to collaborate help the next.
-- ⚡ Fun facti like listen music
+- ⚡ Fun facti like music
 
 <!---
 LeParo/LeParo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
